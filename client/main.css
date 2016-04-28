@@ -7,6 +7,7 @@
         background-repeat: no-repeat !important;
         background-size: cover !important;
         background-attachment: fixed !important;
+        opacity: 0.75;
     }
     
     .masthead.segment {
@@ -196,4 +197,14 @@
     #login-pic {
       width: 50%;
       height: 50%;
+    }
+
+    .bolded {
+      font-weight: bolder;
+      color: #9FD4BC;
+      font-size: 24px;
+    }
+
+    .ui.header{
+      color: #9FD4BC;
     }
